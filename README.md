@@ -45,10 +45,3 @@ A web-based, agent-powered credit card recommendation system for Indian users. B
 - `card_data.json` — Credit card database
 - `requirements.txt` — Python dependencies
 
-## Demo
-- (Add a GIF or video here showing the Q&A, summary, and comparison features)
-
-## Next Steps / Optional Features
-- Integrate LLM for more natural conversation
-- Add WhatsApp integration (Twilio API)
-- Use a dynamic or vector database for advanced matching 
