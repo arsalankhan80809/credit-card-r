@@ -2,6 +2,8 @@
 
 A web-based, agent-powered credit card recommendation system for Indian users. Built with Streamlit and LangChain.
 
+Demo video link  https://drive.google.com/file/d/12YqrGpYYB78FeHWV4reboYO7JsW1hH0X/view?usp=drivesdk
+
 ## Features
 - Conversational Q&A to understand user preferences
 - Recommends best-fit Indian credit cards from a curated database
@@ -37,11 +39,10 @@ A web-based, agent-powered credit card recommendation system for Indian users. B
 3. **Open in browser:**
    Visit [http://localhost:8501](http://localhost:8501)
 
-## Deployment
-- You can deploy this app for free on [Streamlit Cloud](https://streamlit.io/cloud) for public access.
 
 ## Project Structure
 - `app.py` — Main Streamlit app
 - `card_data.json` — Credit card database
 - `requirements.txt` — Python dependencies
+- 
 
